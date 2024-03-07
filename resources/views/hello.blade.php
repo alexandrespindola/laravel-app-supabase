@@ -10,6 +10,7 @@
                     <div class="card-body text-white text-3xl">
                         <h1>Hey</h1>Hello, this is my first Laravel Breeze page!
                         <h2 class="bg-orange-500">My second Tailwind website</h2>
+                        <h3>Hello 3</h3>
                     </div>
                 </div>
             </div>
